@@ -78,10 +78,10 @@ tag_archive:
   path: /chokchia/
 
 search: true
-search_provider: google
+# search_provider: google
 lunr:
   search_within_pages: true
   search_full_content: true
-google:
-  search_engine_id: f3f140697cd094777
+# google:
+#   search_engine_id: f3f140697cd094777
 
