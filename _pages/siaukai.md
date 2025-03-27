@@ -27,9 +27,13 @@ Chit ê網站ùi白話字文獻內底摘beh kah 3000篇文章，koh ke-thiⁿ漢
 
 咱chia「白話字文獻館」收錄--ê單單全白話字--ê，也就是1969年「台灣教會公報」全白話字版hông禁止進前--ê。內容來源是《台灣教會公報》kap《芥菜子》，其他出版--ê無收。近代--ê請看「[台文通訊](https://taibunthongsin.taigi.info/){:target="_blank"}」、「[台灣教會公報](https://home.pctpress.org/){:target="_blank"}（台文版）」，大部份是漢羅lām寫。
 
-原網站koh有整理1 kóa圖片，咱chia無處理，單單處理數位文字資料。
+因為「台灣白話字文獻館」舊底hit ê網站已經真久無法度使用，「台文雞絲麵 Tâi-bûn Ke-si Mī」將網站資料têng起新網站，上網公開，資料mā會koh校對修正，利便大家學習、研究台語文獻kap白話字。
+
+Mā有提供[原網站khó͘-phih](https://bunhiankoan.poj.tw/2010/){:target="_blank"}（bē-tàng chhiau-chhōe）hō͘大家對應參考。原網站koh有整理1 kóa圖片，咱chia無處理，單單處理數位文字資料。
 
 感謝[原網站團隊](https://bunhiankoan.poj.tw/2010/script/members.htm){:target="_blank"}，hō͘咱有chiah ê資源thang利用。🙏
+
+Beh管理維護需要真chē人力kap時間，請kā阮鬥<a href="https://linktr.ee/taibunkesimi">贊助支持</a>！
 
 因為內容iáu是bē少，真推薦初學者先看下底「入門參考資料」，才來讀網站內底ê文章。
 {: .notice--success}
