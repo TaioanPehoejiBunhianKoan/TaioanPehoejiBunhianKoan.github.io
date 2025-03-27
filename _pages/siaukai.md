@@ -51,7 +51,7 @@ Beh管理維護需要真chē人力kap時間，請kā阮鬥<a href="https://linkt
 
 ### 影片
 
-- [漢字之外—台語「白話字」ê世界／陳慕真](https://www.youtube.com/watch?v=sS5uqqK-3sg&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=3){:target="_blank"}
+- [漢字之外—台語「白話字」ê世界／陳慕真](https://www.youtube.com/watch?v=I4rVEGpldfw&list=PLY6hOIPHm4CSptdd0lcjtFxQFfIGevU7a&index=2){:target="_blank"}
 - [台語白話字是台灣新文學ê開基祖／蔣為文](https://www.youtube.com/watch?v=90upiYlEOXw&list=PLY6hOIPHm4CT5cv9GbChCt7_ZJLjvwtLq&index=4){:target="_blank"}
 - [台語白話字作家kap作品導讀／蔣為文](https://www.youtube.com/watch?v=0Azk46Y5IOY&list=PLY6hOIPHm4CQnTCyRnkiugYY-g50fl7ay&index=2){:target="_blank"}
 - [日本時代ê台語白話字文獻kap文學／陳慕真](https://www.youtube.com/watch?v=tst7Sv1u-IY&list=PLY6hOIPHm4CSptdd0lcjtFxQFfIGevU7a&index=2){:target="_blank"}
