@@ -10,7 +10,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
 
@@ -50,22 +49,19 @@ include:
 
 # Defaults
 defaults:
-  - scope:
-      path: ""
-    values:
-      image: "/assets/images/logo.jpg"
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
       show_date: false
       read_time: false
       comments: false
       share: false
       related: true
+      author_profile: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
@@ -74,6 +70,8 @@ defaults:
       layout: single
       author_profile: true
       toc_sticky: true
+
+og_image: /assets/images/logo.jpg
 
 category_archive:
   type: liquid
@@ -90,3 +88,8 @@ lunr:
 # google:
 #   search_engine_id: f3f140697cd094777
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-5BXPWZ1WYP"
+    anonymize_ip: false # default
