@@ -4,6 +4,8 @@ title: "紹介"
 toc: true
 ---
 
+![](../assets/images/logo.jpg)
+
 ## 基本紹介
 
 ### 白話字
