@@ -50,6 +50,10 @@ include:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/images/logo.jpg"
   # _posts
   - scope:
       path: ""
